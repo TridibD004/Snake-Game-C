@@ -1,4 +1,4 @@
-
+//this is a code using C language to form a Simple Snaken game
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
